@@ -14,6 +14,4 @@ The primary purpose of this table of contents is to:
 
 1. **Explore the Technologies**: Navigate to the `technologies.md` file to view the structured table of contents, which lists various technologies along with their descriptions.
 2. **Contribute**: If you have knowledge of additional technologies or improvements to existing descriptions, feel free to contribute by editing the `technologies.md` file.
-3. **Documentation**: Refer to this README for guidance on the purpose and structure of the table of contents project. 
-
-By participating in this project, you will help improve the visibility and accessibility of technology-related information, benefiting both current and future contributors.
+3. **Documentation**: Refer to this README for guidance on the purpose and structure of the table of contents project.
